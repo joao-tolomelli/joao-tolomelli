@@ -1,13 +1,48 @@
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-tolomelli&show_icons=true&theme=radical&hide_border=true&border_radius=8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-tolomelli&theme=radical&hide_border=true&border_radius=8"/>
-</div>
-<br>
-<div>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+# João Vítor Tolomelli
+
+Desenvolvedor Fullstack com foco em aplicações web modernas, utilizando tecnologias como **React, Node.js, Flask** e integração com **modelos de linguagem (LLMs)**. Interesse contínuo em soluções baseadas em inteligência artificial, DevOps, e sistemas embarcados.
+
+## ⚙️ Stack Principal
+
+### Linguagens de Programação
+- JavaScript
+- Python
+- Java
+
+### Frameworks & Bibliotecas
+- React
+- Tailwind
+- Node.js + Express
+- Flask
+- Spring Boot
+
+### Banco de Dados
+- PostgreSQL
+- MongoDB
+
+### DevOps e Ferramentas
+- Git & GitHub
+- GitHub Actions
+- Jenkins
+- AWS 
+- CI/CD
+- Docker 
+
+### Outros Conhecimentos
+- RESTful APIs
+- Integração com ChatGPT / Ollama
+- Documentação técnica
+- Testes (Jest)
+- Sistemas embarcados
+- Controle de versão colaborativo
+
+## 🧩 Interesses Atuais
+
+- Desenvolvimento de soluções integradas com **IA generativa**
+- Automação de processos e digitalização no setor público
+- Cultura **DevOps** aplicada a times pequenos e escaláveis
+- Projetos com foco em **impacto social e eficiência administrativa**
+- Exploração prática de **LLMs locais** via ferramentas como Ollama
+
+## 📫 Contato
+- LinkedIn: [linkedin.com/in/jo%C3%A3o-vitor-guttierrez-tolomelli/](https://www.linkedin.com/in/jo%C3%A3o-vitor-guttierrez-tolomelli/)
