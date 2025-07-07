@@ -45,4 +45,4 @@ Desenvolvedor Fullstack com foco em aplicações web modernas, utilizando tecnol
 - Exploração prática de **LLMs locais** via ferramentas como Ollama
 
 ## 📫 Contato
-- LinkedIn: [linkedin.com/in/jo%C3%A3o-vitor-guttierrez-tolomelli/](https://www.linkedin.com/in/jo%C3%A3o-vitor-guttierrez-tolomelli/)
+- LinkedIn: [linkedin.com/in/joão-vitor-guttierrez-tolomelli/](https://www.linkedin.com/in/joão-vitor-guttierrez-tolomelli/)
